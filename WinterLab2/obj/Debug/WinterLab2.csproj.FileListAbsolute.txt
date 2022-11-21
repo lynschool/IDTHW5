@@ -1,0 +1,11 @@
+C:\Users\Lyndsey\source\repos\WinterLab2\WinterLab2\bin\Debug\WinterLab2.exe.config
+C:\Users\Lyndsey\source\repos\WinterLab2\WinterLab2\bin\Debug\WinterLab2.exe
+C:\Users\Lyndsey\source\repos\WinterLab2\WinterLab2\bin\Debug\WinterLab2.pdb
+C:\Users\Lyndsey\source\repos\WinterLab2\WinterLab2\obj\Debug\WinterLab2.csproj.AssemblyReference.cache
+C:\Users\Lyndsey\source\repos\WinterLab2\WinterLab2\obj\Debug\WinterLab2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lyndsey\source\repos\WinterLab2\WinterLab2\obj\Debug\WinterLab2.Properties.Resources.resources
+C:\Users\Lyndsey\source\repos\WinterLab2\WinterLab2\obj\Debug\WinterLab2.csproj.GenerateResource.cache
+C:\Users\Lyndsey\source\repos\WinterLab2\WinterLab2\obj\Debug\WinterLab2.csproj.CoreCompileInputs.cache
+C:\Users\Lyndsey\source\repos\WinterLab2\WinterLab2\obj\Debug\WinterLab2.exe
+C:\Users\Lyndsey\source\repos\WinterLab2\WinterLab2\obj\Debug\WinterLab2.pdb
+C:\Users\Lyndsey\source\repos\WinterLab2\WinterLab2\obj\Debug\WinterLab2.Form1.resources
